@@ -1,0 +1,11 @@
+pandas
+flask
+numpy
+pymongo
+scikit-learn
+numpy
+#shutil
+
+
+
+-e .
